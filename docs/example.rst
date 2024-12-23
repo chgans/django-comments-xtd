@@ -46,7 +46,7 @@ Clone the source code, create the virtual environment and install the Python pac
 
 .. code-block:: bash
 
-    git clone git://github.com/danirus/django-comments-xtd.git
+    git clone https://github.com/danirus/django-comments-xtd.git
     cd django-comments-xtd/
     python3 -m venv venv
     source venv/bin/activate
